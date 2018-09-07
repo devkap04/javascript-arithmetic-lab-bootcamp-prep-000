@@ -1,3 +1,4 @@
 function add(a, b) {
-  add(1, 8)
+  return a+b
 }
+add(1, 80)
